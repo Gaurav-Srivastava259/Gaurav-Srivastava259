@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Gaurav Srivastava
 - 👀 I’m interested in data analyst,business analyst,bi analyst etc.
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning ML Concepts with proven skills in Excel, SQL, Power Bi and Python.
+- 💞️ I'm looking for employment opportunity with Data Science field.
 - 📫 How to reach me gaurav.srivastava259@gmail.com
 
 <!---
